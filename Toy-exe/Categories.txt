@@ -1,0 +1,7 @@
+Doll
+Car
+Ball
+Bear
+Lego
+Plane
+Puzzle
